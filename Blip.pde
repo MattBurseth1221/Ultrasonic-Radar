@@ -1,3 +1,5 @@
+//Creates and draws new Blips on Radar with data given from Arduino
+
 class Blip {
    int x;
    int y;
