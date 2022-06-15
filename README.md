@@ -1,4 +1,4 @@
-# UltrasonicRadar
+# Ultrasonic-Radar
 Ultrasonic Radar using Arduino I/O and Processing
 by Matt Burseth
 
